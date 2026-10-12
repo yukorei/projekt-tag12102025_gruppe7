@@ -1,5 +1,5 @@
-JoyCar.initController(ControllerType.Microbit)
 JoyCar.initJoyCar(RevisionMainboard.OnepThree)
+JoyCar.initController(ControllerType.Microbit)
 basic.showLeds(`
     . . . . #
     . . . # #
